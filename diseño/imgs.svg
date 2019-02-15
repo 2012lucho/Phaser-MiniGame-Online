@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="imgs.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-245.12936"
+     inkscape:cy="960"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1368"
+     inkscape:window-height="739"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#338000;fill-opacity:1;stroke:#338000;stroke-width:0.58539665;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
+       id="rect834"
+       width="12.64377"
+       height="12.64377"
+       x="-111.16482"
+       y="57.610313"
+       inkscape:export-filename="/var/www/html/PhaserMiniGame/img/t1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#804400;fill-opacity:1;stroke:#804400;stroke-width:0.58539665;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
+       id="rect834-3"
+       width="12.64377"
+       height="12.64377"
+       x="-84.940933"
+       y="57.466805"
+       inkscape:export-filename="/var/www/html/PhaserMiniGame/img/t2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:#ffde04;fill-opacity:1;stroke:#ffc300;stroke-width:0.66500002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="-48.191963"
+       cy="63.97768"
+       r="1.3229166"
+       inkscape:export-filename="/var/www/html/PhaserMiniGame/img/m_a1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:#a8a8a8;stroke-width:2.51338601;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
+       d="M -222.99023 113.125 L -223.67773 119.94336 L -249.00195 119.94336 L -249.00195 130.29688 L -224.72266 130.29688 L -225.81836 141.15625 L -231.57812 141.15625 L -247.74023 167.67383 L -193.44336 167.41992 L -200.51562 141.15625 L -208.77539 141.15625 L -209.88086 130.29688 L -155.81641 130.29688 L -155.81641 119.94336 L -210.93359 119.94336 L -211.62695 113.125 L -222.99023 113.125 z M -247.74023 167.67383 L -258.85156 167.67383 L -258.85156 177.77539 L -188.14062 177.77539 L -188.14062 167.67383 L -247.74023 167.67383 z "
+       transform="scale(0.26458333)"
+       id="rect868"
+       inkscape:export-filename="/var/www/html/PhaserMiniGame/img/a1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
