@@ -41,6 +41,12 @@ class CampoBatalla{
 
       this.escena.update = function(time, delta){
         o.mapa.update(time, delta);
+
+        if (o.config.game.WS.online){
+          o.texts.t.setText('');
+        } else {
+          o.texts.t.setText('Imposible conectarse con el servidor');
+        }
       }
 
       this.game = new Phaser.Game(this.config);

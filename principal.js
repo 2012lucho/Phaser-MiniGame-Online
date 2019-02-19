@@ -14,7 +14,10 @@ class Juego{
       },
       scene: '',
       pixelArt: true,
+      game: this
     }
+
+    this.WS = new SocketADM();
 
     this.escenas = [
       new Menu(this.config),
